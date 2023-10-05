@@ -62,7 +62,7 @@ const userInputString = prompt(
       return 0; 
     }
     const sum = getSum(numbers);
-    return sum / numbers.length;
+    return sum / numbers.len
   }
   
   /**
